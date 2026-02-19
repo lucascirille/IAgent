@@ -19,9 +19,7 @@ A Rust-based AI agent designed for automated Excel spreadsheet manipulation, pow
 
 ## 📍 The Process
 
-[WRITE YOUR STORY HERE]
-
-> 💡 **Inspiration for your story:** "I've always been curious about how AI can handle boring office tasks like spreadsheet management. While Python is the 'standard' for this, I wanted to see if I could build a faster, more robust version using Rust. The main challenge was mapping the AI's natural language output to specific Excel grid operations. I spent a lot of time fine-tuning the prompts to ensure the agent wouldn't break the cell formatting. It's still a work in progress, but it's a great proof of concept for automated data workflows."
+I've always been curious about how AI can handle boring office tasks like spreadsheet management. While Python is the 'standard' for this, I wanted to see if I could build a faster, more robust version using Rust. The main challenge was mapping the AI's natural language output to specific Excel grid operations. I spent a lot of time fine-tuning the prompts to ensure the agent wouldn't break the cell formatting. It's still a work in progress, but it's a great proof of concept for automated data workflows.
 
 ## 🚦 Running the Project
 
